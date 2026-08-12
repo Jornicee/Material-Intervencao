@@ -9,7 +9,6 @@ da BNCC da Computação.
 
 - `documentos/` – documentos relacionados à realização da intervenção;
 - `planos-aula/` – planos e materiais dos encontros;
-- `questionarios/` – instrumentos utilizados para coleta de dados.
 
 ## Materiais
 
